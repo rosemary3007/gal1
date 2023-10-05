@@ -1,0 +1,38 @@
+.col{
+    /* height: 600px; */
+    width: 18%;
+    border:white 9px solid;
+    /* background-color: black; */
+    float: left;
+    color: black;
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.col:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+img{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding: 10px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: blueviolet;
+    color: white;
+
+}
+button:hover{
+    background-color: rgb(217, 190, 242);
+    color:white ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
